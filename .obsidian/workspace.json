@@ -4,39 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5c2d7e2e9df8602d",
+        "id": "39dc7dc115fb0f7a",
         "type": "tabs",
         "children": [
           {
-            "id": "fb8514d688923458",
+            "id": "d6a3264aa59fc250",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "test_canvas.canvas",
-                "viewState": {
-                  "x": -131,
-                  "y": -36,
-                  "zoom": 0,
-                  "snapToGrid": false
-                }
-              }
-            }
-          },
-          {
-            "id": "89e98fc5ca965699",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Title of this note.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Title of this note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,10 +99,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "89e98fc5ca965699",
+  "active": "d6a3264aa59fc250",
   "lastOpenFiles": [
+    "Research papers/Recovery of Dynamics and Function in Spiking Neural Networks with Closed-Loop Control.md",
+    "Research papers/Dynamical state of the network determines the efficacy of single neuron properties in shaping the network activity.md",
+    "Doctoral student in Computational Neuroscience.md",
+    "Research papers/Short-Term Synaptic Plasticity Makes Neurons Sensitive to the Distribution of Presynaptic Population Firing Rates.md",
+    "Research papers/Portraits of communication in neuronal networks.md",
+    "Research papers/Computational Properties of the Visual Microcircuit.md",
+    "Research papers/From space to time. Spatial inhomogeneities lead to the emergence of spatiotemporal sequences in spiking neuronal networks.md",
     "test_canvas.canvas",
-    "Title of this note.md",
     "test_canvas.md"
   ]
 }
