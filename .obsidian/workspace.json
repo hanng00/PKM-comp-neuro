@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "39dc7dc115fb0f7a",
+        "id": "125639818e1bcc8e",
         "type": "tabs",
         "children": [
           {
-            "id": "d6a3264aa59fc250",
+            "id": "517129263fc6f405",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Research papers/A working memory model based on fast Hebbian learning.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Research papers/A working memory model based on fast Hebbian learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,16 +104,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d6a3264aa59fc250",
+  "active": "517129263fc6f405",
   "lastOpenFiles": [
-    "Research papers/Recovery of Dynamics and Function in Spiking Neural Networks with Closed-Loop Control.md",
-    "Research papers/Dynamical state of the network determines the efficacy of single neuron properties in shaping the network activity.md",
-    "Doctoral student in Computational Neuroscience.md",
-    "Research papers/Short-Term Synaptic Plasticity Makes Neurons Sensitive to the Distribution of Presynaptic Population Firing Rates.md",
-    "Research papers/Portraits of communication in neuronal networks.md",
-    "Research papers/Computational Properties of the Visual Microcircuit.md",
-    "Research papers/From space to time. Spatial inhomogeneities lead to the emergence of spatiotemporal sequences in spiking neuronal networks.md",
-    "test_canvas.canvas",
-    "test_canvas.md"
+    "Introductory material from Pawel.md",
+    "Research papers/A Practical Guide to Applying Echo State Networks.md",
+    "Literature/Spiking Neuron Models Single Neurons, Populations, Plasticity.md",
+    "TowardsDataScience/Reservoir computing.md",
+    "Research papers/Introduction to Reservoir Computing Methods.md",
+    "Research papers/Regression with Bayesian Confidence Propagating Neural Networks.md",
+    "Research papers/Probabilistic associative learning suffices for learning the temporal structure of multiple sequences.md",
+    "Research papers/Brain-like combination of feedforward and recurrent network components achieves prototype extraction and robust pattern recognition.md",
+    "Research papers/Reactivation in Working Memory - An Attractor Network Model of Free Recall.md",
+    "Research papers/Brain-like approaches to unsupervised learning of hidden representations - a comparative study.md"
   ]
 }

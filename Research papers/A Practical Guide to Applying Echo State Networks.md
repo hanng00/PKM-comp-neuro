@@ -1,0 +1,1 @@
+Link: https://www.ai.rug.nl/minds/uploads/PracticalESN.pdf
