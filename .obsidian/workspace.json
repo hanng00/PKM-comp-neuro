@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "125639818e1bcc8e",
+        "id": "500b25afa4a4f031",
         "type": "tabs",
         "children": [
           {
-            "id": "517129263fc6f405",
+            "id": "2cf74359fb6e32ca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research papers/A working memory model based on fast Hebbian learning.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -61,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 201
   },
   "right": {
     "id": "45990b2661fbc9cd",
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research papers/A working memory model based on fast Hebbian learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,17 +99,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "517129263fc6f405",
+  "active": "2cf74359fb6e32ca",
   "lastOpenFiles": [
-    "Introductory material from Pawel.md",
-    "Research papers/A Practical Guide to Applying Echo State Networks.md",
-    "Literature/Spiking Neuron Models Single Neurons, Populations, Plasticity.md",
-    "TowardsDataScience/Reservoir computing.md",
-    "Research papers/Introduction to Reservoir Computing Methods.md",
-    "Research papers/Regression with Bayesian Confidence Propagating Neural Networks.md",
-    "Research papers/Probabilistic associative learning suffices for learning the temporal structure of multiple sequences.md",
-    "Research papers/Brain-like combination of feedforward and recurrent network components achieves prototype extraction and robust pattern recognition.md",
-    "Research papers/Reactivation in Working Memory - An Attractor Network Model of Free Recall.md",
-    "Research papers/Brain-like approaches to unsupervised learning of hidden representations - a comparative study.md"
+    "Research papers/Attractor Neural Network modelling of the Lifespan Retrieval Curve.md",
+    "Research papers/An Attractor Memory Model of Neocortex.md",
+    "Attractor Memory Network Model.md",
+    "The Hopfield Network.md",
+    "Memory Chain Model.md",
+    "AM-ART Model.md",
+    "Research papers/Brain-like approaches to unsupervised learning of hidden representations - a comparative study.md",
+    "Research papers/An Indexing Theory for Working Memory based on Fast Hebbian Plasticity.md",
+    "Research papers/A working memory model based on fast Hebbian learning.md",
+    "Reminiscence bump.md"
   ]
 }
