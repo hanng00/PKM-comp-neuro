@@ -4,37 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "193e105f41cb3183",
+        "id": "72aac7b01a0b0b63",
         "type": "tabs",
         "children": [
           {
-            "id": "4a7c2c8a584d72d9",
+            "id": "6e3840e1a73a1713",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
-            }
-          },
-          {
-            "id": "5f59e9b13ff5608f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research papers/Attractor Neural Network modelling of the Lifespan Retrieval Curve.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "405c938ecb564c53",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "BCPNN/Thesis - Raghav Bongole - Regression_with_Bayesian_Confidence_Propagating_Neural_Networks.pdf"
-              }
             }
           }
         ]
@@ -79,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 293.5
   },
   "right": {
     "id": "45990b2661fbc9cd",
@@ -121,17 +99,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4a7c2c8a584d72d9",
+  "active": "6e3840e1a73a1713",
   "lastOpenFiles": [
-    "Research papers/Regression with Bayesian Confidence Propagating Neural Networks.md",
-    "Research papers/Attractor Neural Network modelling of the Lifespan Retrieval Curve.md",
-    "Neurological Computational Models/BCPNN (Bayesian confidence propagation neural network).md",
-    "Unsorted Notes/Introductory material from Pawel.md",
-    "BCPNN/Thesis - Raghav Bongole - Regression_with_Bayesian_Confidence_Propagating_Neural_Networks.pdf",
-    "BCPNN/ICANN2021_545_v1-3.pdf",
-    "BCPNN/ACAIN_2022_paper_6512 (1).pdf",
-    "BCPNN/ES2020-83-1.pdf",
-    "BCPNN/journal.pone.0073776.PDF",
-    "BCPNN/A_Sandberg_2003_Network__Comput._Neural_Syst._14_789.pdf"
+    "Research Papers/Research Papers - Critical Brain Hypothesis/Inferring collective dynamical states from widely unobserved systems.md",
+    "Critical Brain Hypothesis/Mechanism for establishing criticallity.md",
+    "Research Papers/Research Papers - Critical Brain Hypothesis/Why Brain Criticality Is Clinically Relevant - A Scoping Review.md",
+    "Research Papers/Research Papers - Critical Brain Hypothesis/The Critically Tuned Cortex.md",
+    "Research Papers/Research Papers - Critical Brain Hypothesis/Emergent complex neural dynamics.md",
+    "Critical Brain Hypothesis/Critical Brain Hypothesis.md",
+    "Research Papers/Research Papers - Consciousness/Modelling Consciousness within Mental Monism - An Automata-Theoretic Approach.md",
+    "Critical Brain Hypothesis/Quasicritical State.md",
+    "Research Papers/Research Papers - Critical Brain Hypothesis/Power-law statistics and universal scaling in the absence of criticality.md",
+    "Research Papers/Research Papers - Critical Brain Hypothesis/Distributed harmonic patterns of structure-function dependence orchestrate human consciousness.md"
   ]
 }
