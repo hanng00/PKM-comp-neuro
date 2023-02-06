@@ -14,6 +14,7 @@
 	3. [[An Attractor Memory Model of Neocortex]]
 	4. [[Role of Context in Episodic Memory - A Bayesian-Hebbian Neural Network Model of Episodic Recall]]
 	5. [[An Indexing Theory for Working Memory based on Fast Hebbian Plasticity]]
+
 3.  Here you can find good introductory reading on neural networks: 
 	1. [https://page.mi.fu-berlin.de/rojas/neural/](https://page.mi.fu-berlin.de/rojas/neural/) (here you can also find one of the earliest books on deep learning 
 	2. [https://web.archive.org/web/20160416111010/http://www.deeplearningbook.org/](https://web.archive.org/web/20160416111010/http:/www.deeplearningbook.org/))

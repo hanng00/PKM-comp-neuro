@@ -11,8 +11,12 @@
             "id": "6e3840e1a73a1713",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Unsorted Notes/Doctoral student in Computational Neuroscience.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Unsorted Notes/Doctoral student in Computational Neuroscience.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +106,15 @@
   },
   "active": "6e3840e1a73a1713",
   "lastOpenFiles": [
-    "Research Papers/Research Papers - Critical Brain Hypothesis/Inferring collective dynamical states from widely unobserved systems.md",
-    "Critical Brain Hypothesis/Mechanism for establishing criticallity.md",
-    "Research Papers/Research Papers - Critical Brain Hypothesis/Why Brain Criticality Is Clinically Relevant - A Scoping Review.md",
-    "Research Papers/Research Papers - Critical Brain Hypothesis/The Critically Tuned Cortex.md",
+    "Research Papers/Research Papers - PhD Post/Portraits of communication in neuronal networks.md",
+    "Unsorted Notes/Doctoral student in Computational Neuroscience.md",
     "Research Papers/Research Papers - Critical Brain Hypothesis/Emergent complex neural dynamics.md",
+    "Critical Brain Hypothesis/Mechanism for establishing criticallity.md",
     "Critical Brain Hypothesis/Critical Brain Hypothesis.md",
-    "Research Papers/Research Papers - Consciousness/Modelling Consciousness within Mental Monism - An Automata-Theoretic Approach.md",
+    "Research Papers/Research Papers - Critical Brain Hypothesis/The Critically Tuned Cortex.md",
     "Critical Brain Hypothesis/Quasicritical State.md",
-    "Research Papers/Research Papers - Critical Brain Hypothesis/Power-law statistics and universal scaling in the absence of criticality.md",
-    "Research Papers/Research Papers - Critical Brain Hypothesis/Distributed harmonic patterns of structure-function dependence orchestrate human consciousness.md"
+    "Research Papers/Research Papers - Pawel/Short-Term Synaptic Plasticity Makes Neurons Sensitive to the Distribution of Presynaptic Population Firing Rates.md",
+    "Unsorted Notes/Introductory material from Pawel.md",
+    "Research Papers/Research Papers - Critical Brain Hypothesis/Inferring collective dynamical states from widely unobserved systems.md"
   ]
 }

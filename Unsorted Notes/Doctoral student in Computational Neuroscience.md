@@ -2,6 +2,7 @@ The doctoral student will be part of Dr. Kumar's research group. The research gr
 
 1.  The role of oscillations and correlations in communication between different brain areas    
 	1. [[Portraits of communication in neuronal networks]]
+	2. [[Short-Term Synaptic Plasticity Makes Neurons Sensitive to the Distribution of Presynaptic Population Firing Rates]]
 2.  Control of brain activity dynamics 
 	1. [[Recovery of Dynamics and Function in Spiking Neural Networks with Closed-Loop Control]]
 3.  Interaction between neuron properties and network activity dynamics 
