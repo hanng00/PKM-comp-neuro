@@ -1,0 +1,1 @@
+Childhood amnesia is the inability of adults to recall episodic memories from their early childhood.

@@ -21,7 +21,7 @@
 	1. [[Introduction to Reservoir Computing Methods]]
 	2.  [[A Practical Guide to Applying Echo State Networks]]
 	3.  [https://martinuzzifrancesco.github.io/posts/a-brief-introduction-to-reservoir-computing/](https://martinuzzifrancesco.github.io/posts/a-brief-introduction-to-reservoir-computing/)
-	4.  [https://towardsdatascience.com/data-driven-modeling-of-complex-systems-8a96dc92abf9](https://towardsdatascience.com/data-driven-modeling-of-complex-systems-8a96dc92abf9)
+	4. [https://towardsdatascience.com/data-driven-modeling-of-complex-systems-8a96dc92abf9](https://towardsdatascience.com/data-driven-modeling-of-complex-systems-8a96dc92abf9)
 	5. [https://towardsdatascience.com/gentle-introduction-to-echo-state-networks-af99e5373c68](https://towardsdatascience.com/gentle-introduction-to-echo-state-networks-af99e5373c68)	
     
 5.  For those interested in self-organising maps (Kohonen maps), please just google tutorials – this is well established and most what you can find originates from good old well referenced and established tutorials.

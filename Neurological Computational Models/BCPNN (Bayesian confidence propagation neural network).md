@@ -1,0 +1,1 @@
+The BCPNN is a local learning rule for networks, as compared to the backpropagation algorithm which are global.
