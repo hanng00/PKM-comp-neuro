@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "766d59af3c696534",
+        "id": "0316bd018226ef05",
         "type": "tabs",
         "children": [
           {
-            "id": "db3288168edacf55",
+            "id": "73d31e7da7c58b12",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research Papers/Research Papers - Critical Brain Hypothesis/The Critically Tuned Cortex.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "52ab4277566a8806",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KEX/Meeting with Pawel.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KEX/Meeting with Pawel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,16 +99,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "52ab4277566a8806",
+  "active": "73d31e7da7c58b12",
   "lastOpenFiles": [
+    "KEX/Meetings with Pawel.md",
+    "Critical Brain Hypothesis/Critical Brain Hypothesis.md",
+    "Research Papers/Research Papers - Critical Brain Hypothesis/Critical Branching Regulation of the E-I Net Spiking Neural Network Model.md",
     "Critical Brain Hypothesis/Self-regulating Critical Neural Networks.md",
     "Research Papers/Research Papers - Critical Brain Hypothesis/The Critically Tuned Cortex.md",
-    "KEX/Meeting with Pawel.md",
     "Critical Brain Hypothesis/Mechanism for establishing criticallity.md",
     "Research Papers/Research Papers - Critical Brain Hypothesis/_Power-law statistics and universal scaling in the absence of criticality.md",
     "Research Papers/Research Papers - Critical Brain Hypothesis/_Inferring collective dynamical states from widely unobserved systems.md",
-    "Critical Brain Hypothesis/Critical Brain Hypothesis.md",
-    "Research Papers/Research Papers - Critical Brain Hypothesis/Critical Branching Regulation of the E-I Net Spiking Neural Network Model.md",
     "Critical Brain Hypothesis/Quasicritical State.md",
     "Research Papers/Research Papers - Critical Brain Hypothesis/Emergent complex neural dynamics.md"
   ]
