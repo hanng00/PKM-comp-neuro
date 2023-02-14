@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "72aac7b01a0b0b63",
+        "id": "766d59af3c696534",
         "type": "tabs",
         "children": [
           {
-            "id": "6e3840e1a73a1713",
+            "id": "db3288168edacf55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unsorted Notes/Doctoral student in Computational Neuroscience.md",
+                "file": "Research Papers/Research Papers - Critical Brain Hypothesis/The Critically Tuned Cortex.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52ab4277566a8806",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KEX/Meeting with Pawel.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unsorted Notes/Doctoral student in Computational Neuroscience.md",
+                "file": "KEX/Meeting with Pawel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,17 +117,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6e3840e1a73a1713",
+  "active": "52ab4277566a8806",
   "lastOpenFiles": [
-    "Research Papers/Research Papers - PhD Post/Portraits of communication in neuronal networks.md",
-    "Unsorted Notes/Doctoral student in Computational Neuroscience.md",
-    "Research Papers/Research Papers - Critical Brain Hypothesis/Emergent complex neural dynamics.md",
-    "Critical Brain Hypothesis/Mechanism for establishing criticallity.md",
-    "Critical Brain Hypothesis/Critical Brain Hypothesis.md",
+    "Critical Brain Hypothesis/Self-regulating Critical Neural Networks.md",
     "Research Papers/Research Papers - Critical Brain Hypothesis/The Critically Tuned Cortex.md",
+    "KEX/Meeting with Pawel.md",
+    "Critical Brain Hypothesis/Mechanism for establishing criticallity.md",
+    "Research Papers/Research Papers - Critical Brain Hypothesis/_Power-law statistics and universal scaling in the absence of criticality.md",
+    "Research Papers/Research Papers - Critical Brain Hypothesis/_Inferring collective dynamical states from widely unobserved systems.md",
+    "Critical Brain Hypothesis/Critical Brain Hypothesis.md",
+    "Research Papers/Research Papers - Critical Brain Hypothesis/Critical Branching Regulation of the E-I Net Spiking Neural Network Model.md",
     "Critical Brain Hypothesis/Quasicritical State.md",
-    "Research Papers/Research Papers - Pawel/Short-Term Synaptic Plasticity Makes Neurons Sensitive to the Distribution of Presynaptic Population Firing Rates.md",
-    "Unsorted Notes/Introductory material from Pawel.md",
-    "Research Papers/Research Papers - Critical Brain Hypothesis/Inferring collective dynamical states from widely unobserved systems.md"
+    "Research Papers/Research Papers - Critical Brain Hypothesis/Emergent complex neural dynamics.md"
   ]
 }

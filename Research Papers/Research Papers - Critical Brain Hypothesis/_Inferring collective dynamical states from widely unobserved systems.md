@@ -1,8 +1,11 @@
 Link: https://www.nature.com/articles/s41467-018-04725-4
 
 ---
+### Takeaway
+**Proposes *susceptibility* as new method for classifying criticality in dynamicak systems **
+
 ### Background
-The cortex is churning with activity, each cortical region getting inputs from multiple other regions. Neuronal avalnches of all sizes flow into on another making it difficult to differentiate them.
+The cortex is churning with activity, each cortical region getting inputs from multiple other regions. Neuronal avalanches of all sizes flow into on another making it difficult to differentiate them.
 
 ### Aim and scope
 The conventional method for estimating criticality was to fit neuronal activity data to a power-law distribution. This paper instead characterized the quasicriticality in terms of *susceptibility* - a function describing how sensitive a given system is to an incoming stimulus.

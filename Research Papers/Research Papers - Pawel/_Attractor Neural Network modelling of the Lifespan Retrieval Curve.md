@@ -1,6 +1,9 @@
 Link: https://www.diva-portal.org/smash/get/diva2:1466428/FULLTEXT02
 
 ----
+### Takeaway
+Models the [[Reminiscence bump]] using Modular Attractor Neural Networks and BCPNN's and  Exponential Moving Averages.
+
 **Aim and scope**
 This paper aims at modelling the reminiscence bump from the [[Reminiscence bump]] to predict how biological parameters affect its form. 
 

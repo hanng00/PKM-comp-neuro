@@ -22,4 +22,4 @@ We observe that this has a similar structure as the multi-layer perceptron archi
 * $log \; P(Y_j)$ - the bias of the $j^{th}$ unit in the output $b_j$.
 
 **Learning**
-[[Regression with Bayesian Confidence Propagating Neural Networks]] have good explanations for incremental learning and other aspects.
+[[_Regression with Bayesian Confidence Propagating Neural Networks]] have good explanations for incremental learning and other aspects.

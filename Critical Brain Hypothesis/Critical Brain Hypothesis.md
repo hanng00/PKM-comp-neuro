@@ -24,7 +24,7 @@ Research suggested that brain diseases are associated with failure to operate ne
 * in a sub-critical state for too long, [[Comatose state]] occurs.
 
 **Criticism**
-* It is shown in [[Power-law statistics and universal scaling in the absence of criticality]] that power-law distributions can arise from randomized neurons, hence not being a good indicator of criticality.
+* It is shown in [[_Power-law statistics and universal scaling in the absence of criticality]] that power-law distributions can arise from randomized neurons, hence not being a good indicator of criticality.
 
 **Future work**
 * How does operating new the critical point affect cognition?

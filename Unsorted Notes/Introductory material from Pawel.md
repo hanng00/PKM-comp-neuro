@@ -6,10 +6,10 @@
 	5. [[Brain-like approaches to unsupervised learning of hidden representations - a comparative study]]
 	6. [[Reactivation in Working Memory - An Attractor Network Model of Free Recall]]
 	7. [[Probabilistic associative learning suffices for learning the temporal structure of multiple sequences]]
-	8. [[Regression with Bayesian Confidence Propagating Neural Networks]]
+	8. [[_Regression with Bayesian Confidence Propagating Neural Networks]]
     
 2.  Memory models:
-	1. [[Attractor Neural Network modelling of the Lifespan Retrieval Curve]]
+	1. [[_Attractor Neural Network modelling of the Lifespan Retrieval Curve]]
 	2. [[Traces of Semantization, from Episodic to Semantic Memory in a Spiking Cortical Network Model]]
 	3. [[An Attractor Memory Model of Neocortex]]
 	4. [[Role of Context in Episodic Memory - A Bayesian-Hebbian Neural Network Model of Episodic Recall]]

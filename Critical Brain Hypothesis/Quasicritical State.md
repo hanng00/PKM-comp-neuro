@@ -21,7 +21,7 @@ If the brain is truly critical, there would be a power-law distribution of avala
 Scientists suggest that the brain is slightly subcritical. Being right at the critical point comes with the risk of tipping over.
 * When enhanced focus is required, the brain would benefit from moving closer
 * When faster, more intuitive response is required, moving further away would be beneficial.
-In [[Inferring collective dynamical states from widely unobserved systems]], a new method for estimating the branching ratio found that rats, cats and monkeys all had a branching ratio of 0.98-0.99. Hence being slightly subcritical.
+In [[_Inferring collective dynamical states from widely unobserved systems]], a new method for estimating the branching ratio found that rats, cats and monkeys all had a branching ratio of 0.98-0.99. Hence being slightly subcritical.
 
 **Outlooks**
 [John Beggs](https://www.researchgate.net/profile/John-Beggs) has a lot of interesting papers written on Critical Brain Theory.
