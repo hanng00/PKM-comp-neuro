@@ -1,6 +1,47 @@
 [Link](http://www.diva-portal.se/smash/get/diva2:1371426/FULLTEXT01.pdf)
 
-* Spiking neural networks (SNN) are dynamic models of biological neurons, that communicates with event-based signals called spikes. SNN that reproduce observed properties of biological senses like vision are developed to better understand how such systems function, and to learn how more efficient sensor systems can be engineered. A branching parameter describes the average probability for spikes to propagate between two different neuron populations. The adaptation of branching parameters towards critical values is known to be important for maximizing the sensitivity and dynamic range of SNN. 
-* In this thesis, a recently proposed SNN model for visual feature learning and pattern recognition known as the E–I Net model is studied and extended with a critical branching mechanism. The resulting modified E–I Net model is studied with numerical experiments and two different types of sensory queues. 
-* The experiments show that the modified E–I Net model demonstrates critical branching and power-law scaling behavior, as expected from SNN near criticality, but the power-laws are broken and the stimuli reconstruction error is higher compared to the error of the original E–I Net model. Thus, on the basis of these experiments, it is not clear how to properly extend the E–I Net model properly with a critical branching mechanism. 
-* The E–I Net model has a particular structure where the inhibitory neurons (I) are tuned to decorrelate the excitatory neurons (E) so that the visual features learned matches the angular and frequency distributions of feature detectors in visual cortex V1 and different stimuli are represented by sparse subsets of the neurons. The broken power-laws correspond to different scaling behavior at low and high spike rates, which may be related to the efficacy of inhibition in the model.
+### Takeaway
+The paper tries to extend the [[E-I Net model]] model with a cirtical branching mechanism. Experiments hints at critical replication, but some experiments fail. It concludes that it is not clear how to properly extend the original E-I Net model.
+
+### Background
+Neural networks near criticality shows optimal information processing capabilities. If criticality can be robustly implemented and used, more energy efficient sensors and systems can be designed.
+
+### Aim
+The aim is to:
+* **implement** a critical branching method based on [[C. Kello's model for critical branching NN]].
+* **to tune** the dynamics of the [[E-I Net model]] to critical branching.
+
+### Method
+**Input model**
+It models a [[Leaky integrate-and-fire model]]:
+![[Pasted image 20230220131848.png]]
+* $u_i^C$ is the membrane potential of each cell $i$ is updated at time step t.
+* $i,j$ refers to cells in the postsynaptic and presynaptic populations $C, C^*$
+* $n$ is the simulation step, $t$ the membrane potential decay rate.
+* $\beta$ is the coupling constant, $-1$ if it is *inhibitory* and $1$ if it is *excitatory*.
+* $Z^{C^*}$ represents the spike state of each cell in the presynaptic population with values {1, 0}.
+* $W^{C^* -> C}_{i,j}$ is a weight matrix resemlbing the contribution of membrane potential cause by presynaptic spikes.
+
+**Output model**
+* The neuron fires if it reaches a threshold $\theta$, and then resets to its resting potential $u_r$.
+
+**Learning rule**
+The paper mentions [[Hebbian-Oja's learning rule]], [[Földiáks rule]] and [[Correlation Measuring (CM) rule]] - all used in the proposed [[E-I Net model]].
+
+**Critical branching**
+* The branching ratio $\sigma$ is defined as (output spikes)/(input cell spikes). Below 1 -> information decays, and above 1, information dissipates. Critical branching occurs when $\sigma=1$
+* This paper alters [[C. Kello's model for critical branching NN]] by updating synaptic weights instead of enabling or disabling synaptic connections:
+![[Pasted image 20230220154621.png]]
+* Combining the above critical branching mechanism with the E-I Net's threshold regulation does not function as expected. The solution was to  set connections in *blue* to a constant threshold, and keep *red* unchanged. 
+![[Pasted image 20230220155136.png]]
+
+**Measuring criticality**
+The paper used the following methods, see more in [[Measuring criticality]]:
+1. Study of neural avalanches
+2. Allan factor
+
+**Branching ratio**
+Measurement of the networks susceptibiliy to spikes. Here, measured by the numebr of spikes in the inhibitory population per spike in the excitory population.
+![[Pasted image 20230220205711.png]]
+
+### Results

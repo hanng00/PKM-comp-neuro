@@ -16,7 +16,7 @@ Information storage are driven by the activation of neuron assemblies.
 This is very similar to the modularity of hypercolumns and minicolumns in [[BCPNN (Bayesian confidence propagation neural network)]].
 
 **Mechanisms for establishing criticality**
-See [[Mechanism for establishing criticallity]].
+See [[Micro-mechanisms underlying criticallity]].
 
 **Neurological responses to criticality states**
 Research suggested that brain diseases are associated with failure to operate near the critical point or to return to it once pushed away. 

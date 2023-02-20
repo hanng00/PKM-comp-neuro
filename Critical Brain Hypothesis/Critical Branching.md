@@ -1,0 +1,2 @@
+* **Critical branching** is a state where interactions between populations of cells have a 1:1 ratio. If an input signal sends a signal to the output layer, the output layer responds with a signal of the same size. I.e. the same information is sent - not less, not with noise.
+* **Avalanche** occurs when a input signal is amplified in the output layer, and this chain-reaction propagates exponentially.

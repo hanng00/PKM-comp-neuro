@@ -1,0 +1,1 @@
+* The sensory periphery only processes information when there is *new* information to process. Sensors only spike when a change occurs. [Video link](https://www.youtube.com/watch?v=zldal7b7sJ4&t=597s&ab_channel=iCASLab)
