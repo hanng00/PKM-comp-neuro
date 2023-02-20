@@ -11,19 +11,9 @@
             "id": "f6c6090f8030b263",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "img/Pasted image 20230220154621.png"
-              }
-            }
-          },
-          {
-            "id": "3cfdb30c0b5d90cb",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Critical Brain Hypothesis/Order inspite of tendency to disorder.md",
+                "file": "Research Papers/Research Papers - Critical Brain Hypothesis/Critical Branching Regulation of the E-I Net Spiking Neural Network Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 202
   },
   "right": {
     "id": "45990b2661fbc9cd",
@@ -87,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "img/Pasted image 20230220154621.png",
+                "file": "Research Papers/Research Papers - Critical Brain Hypothesis/Critical Branching Regulation of the E-I Net Spiking Neural Network Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,17 +104,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c5a9d2a1cb87566a",
+  "active": "f6c6090f8030b263",
   "lastOpenFiles": [
-    "Research Papers/Research Papers - Critical Brain Hypothesis/Critical Branching Regulation of the E-I Net Spiking Neural Network Model.md",
-    "Critical Brain Hypothesis/Measuring criticality.md",
     "Critical Brain Hypothesis/Order inspite of tendency to disorder.md",
+    "Research Papers/Research Papers - Critical Brain Hypothesis/Critical Branching Regulation of the E-I Net Spiking Neural Network Model.md",
+    "img/Pasted image 20230220154621.png",
+    "Critical Brain Hypothesis/Measuring criticality.md",
     "Neurological Computational Models/C. Kello's model for critical branching NN.md",
     "Neurological Computational Models/E-I Net model.md",
     "Neurological Computational Models/Reservoir Computing.md",
     "Neurological Computational Models/Learning rules/Hebbian-Oja's learning rule.md",
     "The Biological Brain/Homeostasis.md",
-    "The Biological Brain/Hypothalamus.md",
-    "The Biological Brain/Untitled.md"
+    "The Biological Brain/Hypothalamus.md"
   ]
 }

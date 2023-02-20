@@ -45,3 +45,23 @@ Measurement of the networks susceptibiliy to spikes. Here, measured by the numeb
 ![[Pasted image 20230220205711.png]]
 
 ### Results
+The results are given for the E-I Net model and the extended model, both with and without excitatory feedback: 
+* branching ratio
+* two methods to evaluate self-organized criticality
+* measurment of stimuli reconstruction accuracy
+![[Pasted image 20230220223708.png]]
+
+### Discussion / Conclusion
+**The E-I Net model outperformed the extended model**. This may be due to:
+* learning rates updating weights at different rates: E-I update weights during each time step, but the extended model only updates weights of neurons that spiked.
+* redundant responses due to the added axcitory feedback
+
+**It is concluded that excitatory feedback is likely a necessity for correct function of the critical branching mechanism**
+* This "work-around" the inhibitatory neurons purpose of decorrelate excitatory neurons. Another learning rule would be better.
+
+### Future work
+Possible further work addressing the topic presented in this thesis are listed below, with a descending order of relevance.
+* Investigate a **more appropriate learning rule** for the excitatory feedback connections.
+* Create a read-out function to evaluate the memory of the network more accurately, and study how a critical branching mechanism between the input and read-out (or the input and excitatory population) functions. 
+* Explore other methods to establish critical branching with the E–I Net model. For example, a more accurate implementation of C. Kello’s model by enabling and disabling connections between cells as an example. 
+* Study how the sensory queue order and length impact learning.
