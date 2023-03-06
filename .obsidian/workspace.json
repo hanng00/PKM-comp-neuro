@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "0316bd018226ef05",
+        "id": "5898cff0f5a885b9",
         "type": "tabs",
         "children": [
           {
-            "id": "f6c6090f8030b263",
+            "id": "264bf3269464b737",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research Papers/Research Papers - Critical Brain Hypothesis/Critical Branching Regulation of the E-I Net Spiking Neural Network Model.md",
+                "file": "Research Papers/Research Papers - Critical Brain Hypothesis/Self-Organized Supercriticality and Oscillations in Networks of Stochastic Spiking Neurons.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2f121b95032babe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KEX/Project ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 202
+    "width": 287.5
   },
   "right": {
     "id": "45990b2661fbc9cd",
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research Papers/Research Papers - Critical Brain Hypothesis/Critical Branching Regulation of the E-I Net Spiking Neural Network Model.md",
+                "file": "Research Papers/Research Papers - Critical Brain Hypothesis/Self-Organized Supercriticality and Oscillations in Networks of Stochastic Spiking Neurons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,17 +116,34 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f6c6090f8030b263",
+  "active": "264bf3269464b737",
   "lastOpenFiles": [
-    "Critical Brain Hypothesis/Order inspite of tendency to disorder.md",
-    "Research Papers/Research Papers - Critical Brain Hypothesis/Critical Branching Regulation of the E-I Net Spiking Neural Network Model.md",
-    "img/Pasted image 20230220154621.png",
+    "Research Papers/Research Papers - Critical Brain Hypothesis/Self-organized criticality- An explanation of the 1.f noised.md",
+    "Research Papers/Research Papers - Critical Brain Hypothesis/Self-organized criticality as a fundamental property of neural systems.md",
+    "Research Papers/Research Papers - Critical Brain Hypothesis/Scale free avalanches in excitatory-inhibitory populations of spiking neurons with conductance based synaptic currents.md",
+    "Research Papers/Research Papers - Critical Brain Hypothesis/Emergent complex neural dynamics.md",
+    "Research Papers/Research Papers - Critical Brain Hypothesis/Cortical Circuit Dynamics Are Homeostatically Tuned to Criticality In Vivo.md",
+    "Research Papers/Research Papers - Critical Brain Hypothesis/Adaptation to sensory input tunes visual cortex to criticality.md",
+    "Critical Brain Hypothesis/Self-regulating Critical Neural Networks.md",
+    "Critical Brain Hypothesis/Quasicritical State.md",
+    "Critical Brain Hypothesis/Critical Brain Hypothesis.md",
+    "Critical Brain Hypothesis/Critical Branching.md",
+    "Critical Brain Hypothesis/Micro-mechanisms underlying criticallity.md",
     "Critical Brain Hypothesis/Measuring criticality.md",
-    "Neurological Computational Models/C. Kello's model for critical branching NN.md",
-    "Neurological Computational Models/E-I Net model.md",
-    "Neurological Computational Models/Reservoir Computing.md",
-    "Neurological Computational Models/Learning rules/Hebbian-Oja's learning rule.md",
-    "The Biological Brain/Homeostasis.md",
-    "The Biological Brain/Hypothalamus.md"
+    "KEX/Project ideas.md",
+    "Research Papers/Research Papers - Critical Brain Hypothesis/Self-Organized Supercriticality and Oscillations in Networks of Stochastic Spiking Neurons.md",
+    "Research Papers/Research Papers - Critical Brain Hypothesis/The Critically Tuned Cortex.md",
+    "Research Papers/Research Papers - Critical Brain Hypothesis/Why Brain Criticality Is Clinically Relevant - A Scoping Review.md",
+    "Critical Brain Hypothesis/Neruological situations where self-organization arises.md",
+    "Critical Brain Hypothesis/Order inspite of tendency to disorder.md",
+    "img/Pasted image 20230226134543.png",
+    "Research Papers/Research Papers - Pawel/A working memory model based on fast Hebbian learning.md",
+    "Research Papers/Research Papers - Critical Brain Hypothesis/_Dynamical synapses causing self-organized criticality in neural networks.md",
+    "Research Papers/Research Papers - Critical Brain Hypothesis/_Power-law statistics and universal scaling in the absence of criticality.md",
+    "img/Pasted image 20230226134542.png",
+    "img/Pasted image 20230226132013.png",
+    "img/Pasted image 20230226131827.png",
+    "Research Papers/Research Papers - Critical Brain Hypothesis/_Critical Branching Regulation of the E-I Net Spiking Neural Network Model.md",
+    "Neuropsychological Concepts/Flow.md"
   ]
 }

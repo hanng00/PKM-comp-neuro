@@ -8,7 +8,7 @@ Takeaways:
 	4. Maybe add the research question: *Which micro-scale mechanisms underlying/contributes to macro-scale ciriticality?*
 2. **Iteration cycle 1**
 	1. Pawel had limited experience with The Critical Brain Hypothesis
-	2. Redoing the paper [[Critical Branching Regulation of the E-I Net Spiking Neural Network Model]] is a good start to get acquainted with the field.
+	2. Redoing the paper [[_Critical Branching Regulation of the E-I Net Spiking Neural Network Model]] is a good start to get acquainted with the field.
 3. **Future iterations**
 	1. Do my own research to understand where the field lies.
 	2. Get to know existing Computational Models of critical states to acknowledge and build on.

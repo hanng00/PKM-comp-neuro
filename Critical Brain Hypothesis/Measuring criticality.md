@@ -3,7 +3,7 @@
 	* However, it appears to show in random systems so it is more a feature of complex systems rather than criticality. [[_Power-law statistics and universal scaling in the absence of criticality]]
 
 **Studying Avalanche** (Measuring power-law #2)
-Used in [[Critical Branching Regulation of the E-I Net Spiking Neural Network Model]] by studying avalanches S / time T. And Their distribution was given by $D(s)=k_sS^{-\beta}$ . Criticality would yield $\beta =1$. 
+Used in [[_Critical Branching Regulation of the E-I Net Spiking Neural Network Model]] by studying avalanches S / time T. And Their distribution was given by $D(s)=k_sS^{-\beta}$ . Criticality would yield $\beta =1$. 
 ![[Pasted image 20230220175454.png]]
 
 **Allan Factor** (Measuring power-law #2)
