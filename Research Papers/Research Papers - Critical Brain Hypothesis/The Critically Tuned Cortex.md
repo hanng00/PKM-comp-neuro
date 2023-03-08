@@ -1,5 +1,5 @@
-[Original Paper](https://www.sciencedirect.com/science/article/pii/S0896627319307378)
-[Summary review](https://www.sciencedirect.com/science/article/pii/S0896627319309596)
+[Source](https://www.sciencedirect.com/science/article/pii/S0896627319309596)
+Refers to [[Cortical Circuit Dynamics Are Homeostatically Tuned to Criticality In Vivo]]
 
 **Highlights**
 * Visual cortical circuits _in vivo_ exhibit criticality, an ideal computational regime

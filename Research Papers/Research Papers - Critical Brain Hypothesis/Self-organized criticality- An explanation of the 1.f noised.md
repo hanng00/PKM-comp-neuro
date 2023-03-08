@@ -1,1 +1,1 @@
-[Paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.59.381)
+[Paper](http://www.chialvo.net/Curso/UBACurso/DIA3/Papers/SOC1.pdf)

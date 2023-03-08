@@ -1,0 +1,2 @@
+[Link](https://www.biorxiv.org/content/10.1101/454934v1.full.pdf)
+A team of Brazilian physicists analyzing the brains of rats and other animals has found strong evidence that the brain balances at the brink between two modes of operation, in a precarious yet versatile state known as criticality. At the same time, the findings challenge some of the original assumptions of this controversial “critical brain” hypothesis.

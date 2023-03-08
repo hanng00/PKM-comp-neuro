@@ -6,7 +6,7 @@ It posits that the brain is always teetering between two phases, or modes, of ac
 * and an **ordered** phase, where it is overactive and on the verge of a seizure.
 The hypothesis predicts that between these phases, *a sweet point exists* called **the critical point**, where the brain has a perfect balance of variety and structure. This state allows the brain to optimize multiple information processing tasks, from carrying out computations to transmitting and storing information, all at the same time.
 
-The so called critical state may in fact be a [[Quasicritical State]]. The sweet critical point seems very similar to the concept of [[Flow]].
+The so called critical state may in fact be a [[Quasicritical State]]. The sweet critical point seems very similar to the concept of [[Flow]]. The self-regulation mimics the work of the [[Hypothalamus]], but for the brain.
 
 **Example**
 Information storage are driven by the activation of neuron assemblies. 
@@ -25,15 +25,3 @@ Research suggested that brain diseases are associated with failure to operate ne
 
 **Criticism**
 * It is shown in [[_Power-law statistics and universal scaling in the absence of criticality]] that power-law distributions can arise from randomized neurons, hence not being a good indicator of criticality.
-
-**Future work**
-* How does operating new the critical point affect cognition?
-* How can external inputs drive a network to move around the critical point?
-* [John Beggs](https://www.researchgate.net/profile/John-Beggs) has a lot of interesting papers written on Critical Brain Theory.
-
-**To read**
-https://www.quantamagazine.org/do-brains-operate-at-a-tipping-point-new-clues-and-complications-20190610/
-
-https://www.quantamagazine.org/toward-a-theory-of-self-organized-criticality-in-the-brain-20140403/
-
-https://www.quantamagazine.org/a-new-spin-on-the-quantum-brain-20161102/

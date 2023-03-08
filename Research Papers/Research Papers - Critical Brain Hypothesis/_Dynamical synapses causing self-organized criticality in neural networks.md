@@ -11,7 +11,7 @@ In previous models, criticality only showed up when the model were configured at
 
 ### Method and model
 The model consists of two components:
-1. The neurons are based of the [[Leaky integrate-and-fire model]] but iwhtout the leak, where the membrane potential for neuron $0 < h_i(t) < \theta$  has dynamics:
+1. The neurons are based of the [[Leaky integrate-and-fire model]] but without the leak, where the membrane potential for neuron $0 < h_i(t) < \theta$  has dynamics:
 ![[Pasted image 20230226131827.png]]
 2. The available neurotransmitter in the corresponding synapse (previously thought of as weights) has dynamics:
 ![[Pasted image 20230226132013.png]]

@@ -1,3 +1,6 @@
+**5 invariants for avalanches**
+According to [[_Scaling properties of neuronal avalanches are consistent with critical dynamics]], there are five invariants which can be used to classify avalanches from criticality.
+
 **Power-law distribution**. 
 	* "Proven to work" in this [paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.108.208102)
 	* However, it appears to show in random systems so it is more a feature of complex systems rather than criticality. [[_Power-law statistics and universal scaling in the absence of criticality]]
