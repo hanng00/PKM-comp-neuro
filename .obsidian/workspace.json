@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7ca4a9e81667a536",
+        "id": "b1133b4dbc671363",
         "type": "tabs",
         "children": [
           {
-            "id": "c1ee27879819d756",
+            "id": "5853246673c2390f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "KEX/Research questions.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -53,8 +57,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -74,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "KEX/Research questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,18 +104,25 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c1ee27879819d756",
+  "active": "5853246673c2390f",
   "lastOpenFiles": [
+    "TODO.md",
+    "Critical Brain Hypothesis/Modelling self-regulating brain criticality.md",
+    "Critical Brain Hypothesis/The Critical Brain Hypothesis.md",
+    "Neuroscience/fMRI data.md",
+    "Neuroscience/Rich-club in the brain’s macrostructure.md",
+    "Research Papers/Research Papers - fMRI",
+    "Research Papers/Research Papers - Neuroscience/_Emergent complex neural dynamics.md",
+    "Neuroscience",
+    "Neuropsychological Concepts/Untitled.md",
+    "Research Papers/Research Papers - Neuroscience/Network structure of cerebral cortex shapes functional connectivity on multiple time scales.md",
+    "Research Papers/Research Papers - Critical Brain Hypothesis/_Scaling properties of neuronal avalanches are consistent with critical dynamics.md",
     "Research Papers/Research Papers - Critical Brain Hypothesis/_Brain Criticality - Optimizing Neural Computations.md",
     "Research Papers/Research Papers - Neuroscience/Synaptic plasticity and learning - selective impairment of learning rats and....md",
-    "Critical Brain Hypothesis/Modelling self-regulating brain criticality.md",
-    "Research Papers/Research Papers - Neuroscience/Network structure of cerebral cortex shapes functional connectivity on multiple time scales.md",
     "Critical Brain Hypothesis/Meta-Reviews of the critical brain hypothesis field.md",
     "Research Papers/Research Papers - Critical Brain Hypothesis/Self-Organization Toward Criticality by Synaptic Plasticity.md",
     "Research Papers/Research Papers - Critical Brain Hypothesis/Mechanisms of Self-Organized Quasicriticality in Neuronal Network Models.md",
-    "Research Papers/Research Papers - Neuroscience/Emergent complex neural dynamics.md",
     "Research Papers/Research Papers - Neuroscience/Neural networks and physical systems with emergent collective computational abilities.md",
-    "Research Papers/Research Papers - Critical Brain Hypothesis/_Scaling properties of neuronal avalanches are consistent with critical dynamics.md",
     "Research Papers/Research Papers - Critical Brain Hypothesis/Self-Organized Criticality in the brain.md",
     "KEX/Research questions.md",
     "Research Papers/Research Papers - Consciousness/_The Emergence of Integrated Information, Complexity, and ‘Consciousness’ at Criticality.md",
@@ -124,11 +135,6 @@
     "Research Papers/Research Papers - Critical Brain Hypothesis/Adaptation to sensory input tunes visual cortex to criticality.md",
     "Research Papers/Research Papers - Critical Brain Hypothesis/The Critically Tuned Cortex.md",
     "Research Papers/Research Papers - Critical Brain Hypothesis/Cortical Circuit Dynamics Are Homeostatically Tuned to Criticality In Vivo.md",
-    "Critical Brain Hypothesis/Empirically measured brain criticality.md",
-    "Critical Brain Hypothesis/Measuring criticality.md",
-    "Research Papers/Research Papers - Neuroscience/Neuronal Avalanches in Neocortical Circuits.md",
-    "Research Papers/Research Papers - Critical Brain Hypothesis/Criticality between cortical states.md",
-    "Research Papers/Research Papers - Critical Brain Hypothesis/Self-organized criticality- An explanation of the 1.f noised.md",
     "Complex dynamics",
     "Critical Brain Hypothesis/Optimized information processing",
     "Research Papers/Research Papers - Neuroscience",

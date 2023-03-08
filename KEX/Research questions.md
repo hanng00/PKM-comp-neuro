@@ -5,12 +5,13 @@ Big idea:
 * Explore if the synapses from [[_Dynamical synapses causing self-organized criticality in neural networks]] can explain the new data, by adding some type of surpression on synapses in the excitatory neurons - simulating anathesia on rats. 
 
 Additional thought:
-* What if statistical physics is the answer, as suggest by [[Emergent complex neural dynamics]]?
+* What if statistical physics is the answer, as suggest by [[_Emergent complex neural dynamics]]?
 
 ### Idea 2
 Compute Integrated Information Theory $\Phi$ on dynamical neural models, suggested by [[_The Emergence of Integrated Information, Complexity, and ‘Consciousness’ at Criticality]].
 
-
+### Idea 3
+How does the default mode affect learning? Does it reinforce learning? Is that why sleep is so important? Just like training a muscle.
 
 
 **TODOs**
