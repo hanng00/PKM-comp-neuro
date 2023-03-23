@@ -8,10 +8,25 @@ Additional thought:
 * What if statistical physics is the answer, as suggest by [[_Emergent complex neural dynamics]]?
 
 ### Idea 2
-Compute Integrated Information Theory $\Phi$ on dynamical neural models, suggested by [[_The Emergence of Integrated Information, Complexity, and ‘Consciousness’ at Criticality]].
+Construct some of the existing models, as described in [[Modelling self-regulating brain criticality]], and compute the effect on metrics such as:
+* Compute Integrated Information Theory $\Phi$ on dynamical neural models, suggested by [[_The Emergence of Integrated Information, Complexity, and ‘Consciousness’ at Criticality]].
+* Information processing capability, such as was done in the [[_Critical Branching Regulation of the E-I Net Spiking Neural Network Model]] but for other critical models.
 
 ### Idea 3
 How does the default mode affect learning? Does it reinforce learning? Is that why sleep is so important? Just like training a muscle.
+
+### Idea 4
+* A lot of theories are proposed in [[Mechanisms behind the interaction with consciousness]] and [[Subjective will-power]] in relation to [[The brain structure - my hypothesis]]. Is it possible to use a brain model which includes background noise, and simulate the hypothesis?
+
+### Idea 5
+1. Fit SINDy to fMRI data
+2. Estimate the emergent entropy. Does it increase with network size?
+
+### Flow
+1. Compare self-regualting networks based on optimal information transportation
+2. - || -, based on IIT
+
+
 
 
 **TODOs**

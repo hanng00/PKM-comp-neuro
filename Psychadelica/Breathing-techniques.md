@@ -1,0 +1,1 @@
+Apperantly, breathing techniques alters the carbon dioxide levels in the blood. Does this affect the default state in the brain as stated in [[fMRI data]]?

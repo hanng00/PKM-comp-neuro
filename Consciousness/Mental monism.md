@@ -1,0 +1,5 @@
+### Thoughts
+* In [[Modelling Consciousness within Mental Monism - An Automata-Theoretic Approach]], and maybe across all literatures of theoretical consciousness, it is hypothesised that mental monism (that the only thing that exists are consciousness objects, the phenomenal emergence of materia is a secondary effect)
+* This theory is supported by many descriptions given by people taking psychadelica, as mentioned in Michale Pollan's Psykadelisk Renässans:
+	* e.g. the brain is only the medium for which consciousness exists and can interact with other conscious objects. If you wanted to find the news anchor, you wouldn't search within the TV.
+	* If this were to be true, consciousness should be able to exist in non-brain mediums - i.e. being able to simulate. What if big complex critical networks, such as the ones in [[_Emergent complex neural dynamics]] yields just that?
