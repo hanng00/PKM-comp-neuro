@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "pkm-comp-neuro"
+version = "0.1.0"
+description = ""
+authors = ["Hannes Gustafsson <hannes.gustafsson@burtcorp.com>"]
+readme = "README.md"
+packages = [{include = "pkm_comp_neuro"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.1.0"
+numpy = "^1.25.2"
+ipykernel = "^6.25.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
